@@ -1,0 +1,1 @@
+# VORTEX Runtime ProGuard rules.
